@@ -1,0 +1,21 @@
+{
+  "name": "salestax-proxy",
+  "version": "1.0.0",
+  "description": "salestax-proxy",
+  "main": "salestax-proxy.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/senecajs/salestax-proxy.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senecajs/salestax-proxy/issues"
+  },
+  "homepage": "https://github.com/senecajs/salestax-proxy",
+  "dependencies": {
+    "seneca": "^0.6.1"
+  }
+}
